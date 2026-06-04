@@ -89,7 +89,7 @@ O arquivo `dados_imoveis.csv` contém 40 registros simulados com as seguintes co
 ## Autor
 
 **Pablo Matoso Nunes**  
-Graduado em Análise e Desenvolvimento de Sistemas | Corretor e Consultor Imobiliário  
+Graduado em Análise e Desenvolvimento de Sistemas | Analista de dados  
 Em transição para a área de dados e tecnologia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pablo-nunes20)
