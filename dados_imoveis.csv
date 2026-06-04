@@ -1,0 +1,41 @@
+id,tipo,bairro,area_m2,quartos,banheiros,vagas_garagem,preco
+1,Casa,Centro,180,3,2,2,420000
+2,Apartamento,Centro,75,2,1,1,280000
+3,Casa,Jardim América,220,4,3,2,580000
+4,Apartamento,Jardim América,90,3,2,1,320000
+5,Casa,Vila Nova,150,3,2,1,350000
+6,Apartamento,Vila Nova,65,2,1,1,195000
+7,Casa,Santa Luzia,130,3,1,1,280000
+8,Apartamento,Santa Luzia,55,1,1,0,145000
+9,Casa,Bela Vista,200,4,3,2,520000
+10,Apartamento,Bela Vista,80,2,2,1,260000
+11,Casa,Parque das Flores,170,3,2,2,390000
+12,Apartamento,Parque das Flores,70,2,1,1,210000
+13,Casa,Industrial,120,2,1,1,230000
+14,Apartamento,Industrial,50,1,1,0,130000
+15,Casa,São José,160,3,2,1,340000
+16,Apartamento,São José,72,2,1,1,220000
+17,Casa,Centro,250,4,3,3,650000
+18,Apartamento,Centro,95,3,2,2,360000
+19,Casa,Jardim América,190,3,2,2,480000
+20,Apartamento,Jardim América,85,2,2,1,295000
+21,Casa,Vila Nova,140,3,2,1,320000
+22,Apartamento,Vila Nova,60,2,1,0,175000
+23,Casa,Santa Luzia,110,2,1,1,240000
+24,Apartamento,Santa Luzia,48,1,1,0,120000
+25,Casa,Bela Vista,230,4,3,2,590000
+26,Apartamento,Bela Vista,88,3,2,1,310000
+27,Casa,Parque das Flores,155,3,2,1,360000
+28,Apartamento,Parque das Flores,65,2,1,1,195000
+29,Casa,Industrial,100,2,1,0,195000
+30,Apartamento,Industrial,45,1,1,0,110000
+31,Casa,São José,175,3,2,2,395000
+32,Apartamento,São José,78,2,2,1,245000
+33,Casa,Centro,210,4,2,2,540000
+34,Apartamento,Centro,82,2,2,1,310000
+35,Casa,Jardim América,240,4,3,3,620000
+36,Apartamento,Jardim América,100,3,2,2,380000
+37,Casa,Vila Nova,135,2,2,1,295000
+38,Apartamento,Vila Nova,58,1,1,0,158000
+39,Casa,Bela Vista,185,3,2,2,460000
+40,Apartamento,Bela Vista,76,2,1,1,240000
