@@ -27,7 +27,7 @@ A ideia surgiu da minha experiência como corretor e consultor imobiliário, ond
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/analise-imoveis.git
+git clone https://github.com/pablomatoso/analise-imoveis.git
 cd analise-imoveis
 ```
 
